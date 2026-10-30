@@ -1,0 +1,20 @@
+body{
+    backround-color:goldenrod;
+}
+
+table, th, tr, td{
+    border: 2px navy dashed;
+    border-collapse: collapse;
+}
+.big{
+    font-size: 2em;
+}
+
+
+.orange{
+    background-color: orange;
+}
+
+#six-seven{
+    font-size:0.67em;
+}
